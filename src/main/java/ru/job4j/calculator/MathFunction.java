@@ -10,6 +10,14 @@ public class MathFunction {
         return first * second;
     }
 
+    public static double divide(double first, double second) {
+        return first / second;
+    }
+
+    public static double subtraction(double first, double second) {
+        return first - second;
+    }
+
     public static int func1(int x) {
         return x * x + 1;
     }
